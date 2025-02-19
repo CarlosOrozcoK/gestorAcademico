@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "67b552307942c361ef1dc41f"
+  },
+  "name": "Mate",
+  "description": "Curso de matematicas",
+  "teacher": {
+    "$oid": "67b54add7663af5797550594"
+  },
+  "createdAt": {
+    "$date": "2025-02-19T03:38:24.425Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-19T03:38:24.425Z"
+  }
+}]

@@ -1,0 +1,8 @@
+Contraseñas usuarios para uso
+Alumnos
+acampos: 12345678
+emateo: 59315371
+ngarcia: 22334455	
+
+Profesor: 
+CarlosK: 39679413

@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "67b54add7663af5797550594"
+  },
+  "name": "Carlos",
+  "surname": "Orozco",
+  "username": "CarlosK",
+  "email": "corozco-2019392@gmail.com",
+  "password": "$argon2id$v=19$m=65536,t=3,p=4$afZwX+EtAGn4KeDsGR/eBA$2Xuhj8ENKg/PKR25F2RE0BDuG6ok8c+ec+AMhpPOjDI",
+  "phone": "38728675",
+  "role": "TEACHER_ROLE",
+  "status": true,
+  "createdAt": {
+    "$date": "2025-02-19T03:07:09.054Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-19T03:07:09.054Z"
+  }
+}]

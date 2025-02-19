@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "67b542c57663af579755058b"
+  },
+  "name": "Adalnerto",
+  "surname": "Campos",
+  "username": "acampos1234",
+  "email": "acampos234@gmail.com",
+  "password": "$argon2id$v=19$m=65536,t=3,p=4$7eJgDuklmf86sqx3XQIIug$E3spjtIJb7PR2z4/DyA499TaMpMH9zH3Xfq7fkIABRc",
+  "phone": "39679413",
+  "role": "STUDENT_ROLE",
+  "status": true,
+  "courses": [],
+  "createdAt": {
+    "$date": "2025-02-19T02:32:37.703Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-19T02:32:37.703Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b546137663af579755058e"
+  },
+  "name": "Eduardo",
+  "surname": "Mateo",
+  "username": "emateo",
+  "email": "emateo56@gmail.com",
+  "password": "$argon2id$v=19$m=65536,t=3,p=4$LkBe0xy5c9EvltoHNGI5RQ$gZx+9ekdIQpYZlw8FFvbwPxYx5BcajbDP19Ddz+rtoM",
+  "phone": "47289413",
+  "role": "STUDENT_ROLE",
+  "status": true,
+  "courses": [],
+  "createdAt": {
+    "$date": "2025-02-19T02:46:43.503Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-19T02:46:43.503Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b547037663af5797550591"
+  },
+  "name": "Nestor",
+  "surname": "Garcia",
+  "username": "ngarcia",
+  "email": "ngarcia07@gmail.com",
+  "password": "$argon2id$v=19$m=65536,t=3,p=4$hjDfovwTSCsk5cu2R0vpBg$hUUoEi2vRAPFXn0E6HRySo46cewhiS1JoZrcXT+v8KQ",
+  "phone": "58193637",
+  "role": "STUDENT_ROLE",
+  "status": true,
+  "courses": [],
+  "createdAt": {
+    "$date": "2025-02-19T02:50:43.833Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-19T02:50:43.833Z"
+  }
+}]
